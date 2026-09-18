@@ -1,0 +1,22 @@
+# generated figures and intermediate rasters
+figures/*.png
+figures/*.pdf
+*.nc
+*.tif
+*.tiff
+dem*.nc
+relief*.nc
+coast.geojson
+/tmp/
+# local input data (not redistributed)
+data/*
+!data/.gitkeep
+!data/README.md
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+env/
+# os
+.DS_Store

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Geomorphometric conditioning factors and population exposure in the Eastern Black Sea Region (Turkiye): open, reproducible geospatial workflow"
+type: software
+authors:
+  - family-names: Lemenkova
+    given-names: Polina
+    orcid: "https://orcid.org/0000-0002-5759-1089"
+  - family-names: Zulfikar
+    given-names: Abdullah Can
+version: "1.0.0"
+date-released: "2026-09-18"
+license: MIT
+keywords:
+  - geomorphometry
+  - conditioning factors
+  - population exposure
+  - social vulnerability
+  - open geospatial data
+  - Generic Mapping Tools
+  - Python
+  - Eastern Black Sea

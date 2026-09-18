@@ -1,0 +1,17 @@
+name: blacksea-terrain
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - gmt>=6.4
+  - numpy
+  - scipy
+  - rasterio
+  - geopandas
+  - shapely
+  - pyproj
+  - pyogrio
+  - matplotlib
+  - requests
+  - pillow
+  - pip

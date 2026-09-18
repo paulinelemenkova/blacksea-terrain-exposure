@@ -1,0 +1,13 @@
+# Python-based geospatial analysis stack
+numpy
+scipy
+rasterio
+geopandas
+shapely
+pyproj
+pyogrio
+matplotlib
+requests
+pillow
+# Note: the .sh scripts additionally require the Generic Mapping Tools (GMT >= 6.4),
+# installed separately (e.g. `conda install -c conda-forge gmt`) or from generic-mapping-tools.org
